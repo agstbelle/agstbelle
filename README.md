@@ -1,4 +1,4 @@
-## Olá, Sou Isabelle, estudo programação Front-End e Back-End
+## Olá, Sou Isabelle! Estudo programação Front-End e Back-End
 
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=agstbelle&show_icons=true&theme=onedark"/>
